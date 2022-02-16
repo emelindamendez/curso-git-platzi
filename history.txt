@@ -8,3 +8,5 @@ su cumpleaños es en mayo
 'Se agregó el coso de las comillas'
 
 Actualmente está haciendo un curso de git
+
+ahora salió un curso nuevo de estrategias para aprender inglés en linea
