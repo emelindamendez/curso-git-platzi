@@ -10,3 +10,5 @@ su cumpleaños es en mayo
 Actualmente está haciendo un curso de git
 
 ahora salió un curso nuevo de estrategias para aprender inglés en linea
+
+hasta aquí dejamos las contribuciones, no vemos adios
